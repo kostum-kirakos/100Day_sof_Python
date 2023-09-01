@@ -1,10 +1,10 @@
 # 100Days_of_Code
-Throughout this 100 Days_of_Code, we cover a massive amount of tools and technologies, including:
-Python 3 - the latest version of Python
-PyCharm, Jupyter Notebook, Google Colab
-Python Scripting and Automation
-Python Game Development
-Web Scraping
+Throughout this 100 Days_of_Code, we cover a massive amount of tools and technologies, including:\n
+Python 3 - the latest version of Python\n
+PyCharm, Jupyter Notebook, Google Colab\n
+Python Scripting and Automation\n
+Python Game Development\n
+Web Scraping\n
 Beautiful Soup
 Selenium Web Driver
 Request
