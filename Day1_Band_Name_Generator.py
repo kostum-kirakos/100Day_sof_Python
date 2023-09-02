@@ -1,4 +1,12 @@
+# Welcome message
 print("Welcome to the Band Name Generator.")
-Favorite_Animal = input("What is your favorite animale ?\n")
-Home_Town = input("what is the city you born in ? \n")
-print("your band name could be :" + Favorite_Animal + " " + Home_Town)
+
+# Get user input for their favorite animal
+Favorite_Animal = input("What is your favorite animal?\n")
+
+# Get user input for the city they were born in
+Home_Town = input("What is the city you were born in?\n")
+
+# Display the generated band name
+print("Your band name could be: " + Favorite_Animal + " " + Home_Town)
+
